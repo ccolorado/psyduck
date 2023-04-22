@@ -24,3 +24,10 @@ TODO: add starknet parent repo
 
 ### Reference
 * mandara @github `keep-starknet-strange/madara`
+
+
+# Smart contract hacking
+Parent: ccolorado/turbo-rotary-phone
+
+https://github.com/ccolorado/turbo-rotary-phone
+
