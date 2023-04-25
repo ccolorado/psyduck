@@ -21,6 +21,8 @@ Adding a new topic with subject
 TODO: add starknet parent repo
 ### Practice
 * starklings @github `ccolorado/starklings-cairo1`
+### Pioneros
+https://github.com/ccolorado/starknet-pioneros-2023
 
 ### Reference
 * mandara @github `keep-starknet-strange/madara`
