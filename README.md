@@ -12,12 +12,20 @@ Adding a new topic with subject
 
 6. Add git init the directory and register it at `colorado/psyduck#README.md`
 %% 2. add a submodule for the current work inside it.
-3. 
+3.
 
 
 # Topics
 
-## Starknet
+## Cairo /  Starknet
+
+`learn/cairo/` git@github.com:ccolorado/fuzzy-octo-invention.git
+
+  Contains:
+  * `Pioneros Class` - Pioneros weekly class
+  * `Staknet 101 cairo` - Staknet 101 interactive workshop
+  * `Starknet book` - Starknet book
+
 TODO: add starknet parent repo
 ### Practice
 * starklings @github `ccolorado/starklings-cairo1`
